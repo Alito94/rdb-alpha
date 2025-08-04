@@ -1,0 +1,7 @@
+chmod +x insert_data.sh
+chmod +x queries.sh
+bash insert_data.sh
+bash insert_data.sh
+bash queries.sh
+bash insert_data.sh
+bash queries.sh
